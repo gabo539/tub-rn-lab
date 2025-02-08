@@ -34,7 +34,7 @@ This project implements a distributed web server with DHT (Distributed Hash Tabl
 2. Open CLion @ `tub-rn-lab-1`
 3. In the dialog enter 'build' as the build directory here: 
    
-   ![279518875-84040d89-7bf6-4010-b69c-cbc1e50fdcb6.png](/home/gabo539/Desktop/279518875-84040d89-7bf6-4010-b69c-cbc1e50fdcb6.png)
+   ![279518875-84040d89-7bf6-4010-b69c-cbc1e50fdcb6.png](https://github.com/gabo539/tub-rn-lab/blob/main/279518875-84040d89-7bf6-4010-b69c-cbc1e50fdcb6.png?raw=true)
    
    
    
